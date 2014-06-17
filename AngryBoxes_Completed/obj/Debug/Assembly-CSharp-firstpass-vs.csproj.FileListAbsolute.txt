@@ -1,0 +1,9 @@
+C:\RunJumpDev\Awesome Inc U\AngryBoxesGame_Part2\AngryBoxesGame\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\RunJumpDev\Awesome Inc U\AngryBoxesGame_Part2\AngryBoxesGame\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\RunJumpDev\Awesome Inc U\AngryBoxesGame_Part2\AngryBoxesGame\Temp\bin\Debug\UnityEditor.dll
+C:\RunJumpDev\Awesome Inc U\AngryBoxesGame_Part2\AngryBoxesGame\Temp\bin\Debug\UnityEngine.dll
+C:\RunJumpDev\Awesome Inc U\AngryBoxesGame_Part2\AngryBoxesGame\Temp\bin\Debug\Mono.Cecil.dll
+C:\RunJumpDev\Awesome Inc U\AngryBoxesGame_Part2\AngryBoxesGame\Temp\bin\Debug\nunit.framework.dll
+C:\RunJumpDev\Awesome Inc U\AngryBoxesGame_Part2\AngryBoxesGame\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\RunJumpDev\Awesome Inc U\AngryBoxesGame_Part2\AngryBoxesGame\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\RunJumpDev\Awesome Inc U\AngryBoxesGame_Part2\AngryBoxesGame\obj\Debug\Assembly-CSharp-firstpass.pdb
